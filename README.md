@@ -2,6 +2,6 @@
 
 my translation project for study
 
-this project dosn't batch training
+former project wasn't batch training
 
-i implement batch training Subsequent project, dialogue intention extraction
+Implemantation of batch training
